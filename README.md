@@ -2,12 +2,19 @@
 
 ## Resource
 
+### Website / Blog Portal 
 - [Medium](https://medium.com/)
 - [Substack](https://substack.com/)
 - [Dev Community](https://dev.to/)
 - [freeCodeCamp](https://www.freecodecamp.org/news)
 - [ByteByteGo](https://blog.bytebytego.com/)
 - [Hacker News](https://news.ycombinator.com/)
+
+### Personal Blog
+- English Blog
+  - [Jacob Vosmaer](https://blog.jacobvosmaer.nl/)
+- Thai Blog
+  - [Dave Rawitat Pulam](https://rawitat.com/)
 
 ## Computer Science / Information Technology / Software Development 
 
