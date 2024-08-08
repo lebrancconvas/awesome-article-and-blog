@@ -7,6 +7,7 @@
 - [Dev Community](https://dev.to/)
 - [freeCodeCamp](https://www.freecodecamp.org/news)
 - [ByteByteGo](https://blog.bytebytego.com/)
+- [Hacker News](https://news.ycombinator.com/)
 
 ## Computer Science / Information Technology / Software Development 
 
