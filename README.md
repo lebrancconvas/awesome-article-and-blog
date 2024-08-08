@@ -10,3 +10,5 @@
 
 - [DESIGNING THE SUPER NINTENDO VIDEO SYSTEM](https://fabiensanglard.net/snes_video/index.html?fbclid=IwY2xjawEUxitleHRuA2FlbQIxMQABHRJSwfKR8g1ftJ6lz10Tf7zKMoLFxk3CcT7tL8eSQhu9TvilaewMK5zjFw_aem_AktPwBjMyHxVTE4Bhae_CQ)
 - [INSIDE THE SUPER NINTENDO CARTRIDGES](https://fabiensanglard.net/snes_carts/)
+- [Casio VZ-1 algorithms
+](https://blog.jacobvosmaer.nl/0029-vz-1-algorithms/?fbclid=IwY2xjawEh2PpleHRuA2FlbQIxMQABHWtNiDmhbfpqmDaFtdc5lzWewB6xTvW7xIHtHI9dOtfEEGHMk_oYkyEg_w_aem_C4daZ4X7JpGQMrorQw_3HQ)
