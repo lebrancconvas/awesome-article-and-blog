@@ -1,5 +1,13 @@
 # Awesome Article 
 
+## Resource
+
+- [Medium](https://medium.com/)
+- [Substack](https://substack.com/)
+- [Dev Community](https://dev.to/)
+- [freeCodeCamp](https://www.freecodecamp.org/news)
+- [ByteByteGo](https://blog.bytebytego.com/)
+
 ## Computer Science / Information Technology / Software Development 
 
 ### Computer Network
