@@ -11,13 +11,18 @@
 - [Hacker News](https://news.ycombinator.com/)
 
 ### Publication / Company Blog
-- [MIT Media Lab](https://blog.media.mit.edu)
+- English
+  - [MIT Media Lab](https://blog.media.mit.edu)
+- Thai
+  - [ODDS (Medium - odds.team)](https://medium.com/odds-team?source=list-84e1e2001f4d--------0-------df0208188910---------------------)
+  - [KBTG (Medium - KBTG Life)](https://medium.com/kbtg-life?source=list-84e1e2001f4d--------0-------e390b5311a9c---------------------)
+  - [Line Man Wongnai (Medium - Life@LINE MAN Wongnai)](https://life.wongnai.com/?source=list-84e1e2001f4d--------0-------f46a4e18ddd4---------------------)
 
 ### Personal Blog
-- English Blog
+- English
   - [Jacob Vosmaer](https://blog.jacobvosmaer.nl/)
   - [Joi Ito](https://joi.ito.com/weblog)
-- Thai Blog
+- Thai
   - [Dave Rawitat Pulam](https://rawitat.com/)
   - [Chakrit Riddhagni (Chris' Dialogue)](https://chrisza.me)
   - [Manatsawin Hanmongkolchai (Quietly Verbose)](https://blog.whs.in.th)
