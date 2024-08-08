@@ -21,3 +21,9 @@
 - [INSIDE THE SUPER NINTENDO CARTRIDGES](https://fabiensanglard.net/snes_carts/)
 - [Casio VZ-1 algorithms
 ](https://blog.jacobvosmaer.nl/0029-vz-1-algorithms/?fbclid=IwY2xjawEh2PpleHRuA2FlbQIxMQABHWtNiDmhbfpqmDaFtdc5lzWewB6xTvW7xIHtHI9dOtfEEGHMk_oYkyEg_w_aem_C4daZ4X7JpGQMrorQw_3HQ)
+- [The mysterious Casio VZ-1](https://blog.jacobvosmaer.nl/0028-mysterious-vz-1)
+
+## Art
+
+### Audio / Music / Sound
+- [Synthesizer Notes](https://blog.jacobvosmaer.nl/0027-synth-notes/#vz1)
