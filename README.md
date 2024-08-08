@@ -10,11 +10,21 @@
 - [ByteByteGo](https://blog.bytebytego.com/)
 - [Hacker News](https://news.ycombinator.com/)
 
+### Publication / Company Blog
+- [MIT Media Lab](https://blog.media.mit.edu)
+
 ### Personal Blog
 - English Blog
   - [Jacob Vosmaer](https://blog.jacobvosmaer.nl/)
+  - [Joi Ito](https://joi.ito.com/weblog)
 - Thai Blog
   - [Dave Rawitat Pulam](https://rawitat.com/)
+  - [Chakrit Riddhagni (Chris' Dialogue)](https://chrisza.me)
+  - [Manatsawin Hanmongkolchai (Quietly Verbose)](https://blog.whs.in.th)
+  - [Thai Pangsakulyanont (Thai's Note)](https://notes.dt.in.th)
+  - [Neizod's Speculation](https://neizod.dev)
+  - [Arnon Puitrakul (Arnondora's Blog)](https://arnondora.in.th)
+  - [Somkiat Puisungnoen (Somkiat's Blog)](https://www.somkiat.cc)
 
 ## Computer Science / Information Technology / Software Development 
 
