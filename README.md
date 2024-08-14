@@ -33,6 +33,7 @@
   - [Neizod's Speculation](https://neizod.dev)
   - [Arnon Puitrakul (Arnondora's Blog)](https://arnondora.in.th)
   - [Somkiat Puisungnoen (Somkiat's Blog)](https://www.somkiat.cc)
+  - [Chatri Ngambenchawong (DebuggingSoft)](https://naiwaen.debuggingsoft.com/)
 
 ## Computer Science / Information Technology / Software Development 
 
