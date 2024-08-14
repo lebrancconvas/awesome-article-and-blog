@@ -45,7 +45,8 @@
 - [[EN] Casio VZ-1 algorithms
 ](https://blog.jacobvosmaer.nl/0029-vz-1-algorithms/?fbclid=IwY2xjawEh2PpleHRuA2FlbQIxMQABHWtNiDmhbfpqmDaFtdc5lzWewB6xTvW7xIHtHI9dOtfEEGHMk_oYkyEg_w_aem_C4daZ4X7JpGQMrorQw_3HQ)
 - [[EN] The mysterious Casio VZ-1](https://blog.jacobvosmaer.nl/0028-mysterious-vz-1)
-
+- [[EN] A guide to CRT photography (Nyanpasu64)](https://nyanpasu64.gitlab.io/blog/crt-photography)
+  
 ## Art
 
 ### Audio / Music / Sound
