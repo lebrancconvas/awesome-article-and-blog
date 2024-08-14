@@ -23,6 +23,7 @@
 - English
   - [Jacob Vosmaer](https://blog.jacobvosmaer.nl/)
   - [Joi Ito](https://joi.ito.com/weblog)
+  - [Nyanpasu64](https://nyanpasu64.gitlab.io/)
 - Thai
   - [Dave Rawitat Pulam](https://rawitat.com/)
   - [Chakrit Riddhagni (Chris' Dialogue)](https://chrisza.me)
