@@ -10,6 +10,7 @@
 - [ByteByteGo](https://blog.bytebytego.com/)
 - [Hacker News](https://news.ycombinator.com/)
 - [Game Developer (Ex: Gamasutra)](https://www.gamedeveloper.com/)
+- [[TH] Webring (วงแหวนเว็บ)](https://webring.wonderful.software/)
 
 ### Publication / Company Blog
 - English
