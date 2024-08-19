@@ -13,19 +13,20 @@
 - [[TH] Webring (วงแหวนเว็บ)](https://webring.wonderful.software/)
 
 ### Publication / Company Blog
-- English
+- **English**
   - [MIT Media Lab](https://blog.media.mit.edu)
-- Thai
+- **Thai**
   - [ODDS (Medium - odds.team)](https://medium.com/odds-team?source=list-84e1e2001f4d--------0-------df0208188910---------------------)
   - [KBTG (Medium - KBTG Life)](https://medium.com/kbtg-life?source=list-84e1e2001f4d--------0-------e390b5311a9c---------------------)
   - [Line Man Wongnai (Medium - Life@LINE MAN Wongnai)](https://life.wongnai.com/?source=list-84e1e2001f4d--------0-------f46a4e18ddd4---------------------)
 
 ### Personal Blog
-- English
+- **English**
   - [Jacob Vosmaer](https://blog.jacobvosmaer.nl/)
   - [Joi Ito](https://joi.ito.com/weblog)
   - [Nyanpasu64](https://nyanpasu64.gitlab.io/)
-- Thai
+  - [SecNigma](https://secnigma.wordpress.com/)
+- **Thai**
   - [Dave Rawitat Pulam](https://rawitat.com/)
   - [Chakrit Riddhagni (Chris' Dialogue)](https://chrisza.me)
   - [Manatsawin Hanmongkolchai (Quietly Verbose)](https://blog.whs.in.th)
@@ -34,6 +35,12 @@
   - [Arnon Puitrakul (Arnondora's Blog)](https://arnondora.in.th)
   - [Somkiat Puisungnoen (Somkiat's Blog)](https://www.somkiat.cc)
   - [Chatri Ngambenchawong (DebuggingSoft)](https://naiwaen.debuggingsoft.com/)
+
+### Note / Lecture
+- **English**
+  - [Sichao's Note](https://notes.shichao.io/)
+- **Thai**
+  - [Saladpuk](https://saladpuk.com/)
 
 ## Computer Science / Information Technology / Software Development 
 
