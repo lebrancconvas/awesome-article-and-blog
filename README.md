@@ -1,4 +1,4 @@
-# Awesome Article 
+# Awesome Article and Blog
 
 ## Resource
 
@@ -73,6 +73,7 @@
 - [[EN] The mysterious Casio VZ-1](https://blog.jacobvosmaer.nl/0028-mysterious-vz-1)
 - [[EN] A guide to CRT photography (Nyanpasu64)](https://nyanpasu64.gitlab.io/blog/crt-photography)
 - [[EN] A Starter’s guide on recovering damaged and rotten CDs (SecNigma)](https://secnigma.wordpress.com/2022/05/08/a-guide-to-recovering-damaged-and-rotten-cds/?fbclid=IwY2xjawEwU5xleHRuA2FlbQIxMQABHcJinbeoCaZKBrVpjpxANipa7fV71dGl2E5gYgqInNbRckycie52Bqxtgg_aem_KiGTVN2e225sotTvXI3zlQ)
+- [[EN] The Sega Saturn and Transparency (Matt Greer)](https://mattgreer.dev/articles/sega-saturn-and-transparency/)
   
 ## Art / Media
 
