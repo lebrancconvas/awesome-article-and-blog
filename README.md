@@ -15,6 +15,7 @@
 ### Publication / Company Blog
 - **English**
   - [MIT Media Lab](https://blog.media.mit.edu)
+  - [Signalsmith Audio](https://signalsmith-audio.co.uk/writing/)
 - **Thai**
   - [ODDS (Medium - odds.team)](https://medium.com/odds-team?source=list-84e1e2001f4d--------0-------df0208188910---------------------)
   - [KBTG (Medium - KBTG Life)](https://medium.com/kbtg-life?source=list-84e1e2001f4d--------0-------e390b5311a9c---------------------)
@@ -57,6 +58,7 @@
 - [[EN] The mysterious Casio VZ-1](https://blog.jacobvosmaer.nl/0028-mysterious-vz-1)
 - [[EN] A guide to CRT photography (Nyanpasu64)](https://nyanpasu64.gitlab.io/blog/crt-photography)
 - [[EN] A Starter’s guide on recovering damaged and rotten CDs (SecNigma)](https://secnigma.wordpress.com/2022/05/08/a-guide-to-recovering-damaged-and-rotten-cds/?fbclid=IwY2xjawEwU5xleHRuA2FlbQIxMQABHcJinbeoCaZKBrVpjpxANipa7fV71dGl2E5gYgqInNbRckycie52Bqxtgg_aem_KiGTVN2e225sotTvXI3zlQ)
+- [[EN] Let's Write A Reverb (Signalsmith Audio)](https://signalsmith-audio.co.uk/writing/2021/lets-write-a-reverb/?fbclid=IwZXh0bgNhZW0CMTEAAR01vLozXDEOy9CfPwK90G9_2c9FgaHmaDQEulN6I0-W_dqAtWSSqPYsZ_0_aem_s6mclMZzWypLVwqGldDM_A)
   
 ## Art
 
