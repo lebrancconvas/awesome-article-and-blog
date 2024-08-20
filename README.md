@@ -47,6 +47,11 @@
 
 ## Computer Science / Information Technology / Software Development
 
+### Programming Language
+
+- JavaScript
+  - [[EN] JavaScript Promises ... in Wicked Detail (Matt Greer)](https://mattgreer.dev/articles/promises-in-wicked-detail/)
+
 ### Computer Architecture / Low-Level
 
 - [[EN] Neo Geo Dev: Fixed Point Numbers (Matt Greer)](https://mattgreer.dev/blog/neo-geo-dev-fixed-point/?fbclid=IwY2xjawExPqNleHRuA2FlbQIxMQABHX-4raAf3mk3_sz8F23pVqaDm8kAt9TRwbDHGzWIsswZ1jhCSeXewowf-w_aem_SnzEDO9PSrqYNXzl1Pvkng)
