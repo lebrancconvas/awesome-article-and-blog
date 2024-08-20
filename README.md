@@ -45,6 +45,10 @@
 
 ## Computer Science / Information Technology / Software Development 
 
+### Code Style / Clean Code / Design Pattern
+
+- [[EN] Good Refactoring vs Bad Refactoring (Builder)](https://www.builder.io/blog/good-vs-bad-refactoring?fbclid=IwZXh0bgNhZW0CMTEAAR12p3oHYB0WQpZLonrzc2wG9WOohWhj-jrGpI27xWFoHF0fQ1uJv5e14Oc_aem_TC5XVYZFrgl-VBB4nssTZQ)
+
 ### Computer Network
 
 - [[EN] Understanding Wi-Fi 4/5/6/6E/7 (802.11 n/ac/ax/be)](https://www.wiisfi.com/?fbclid=IwY2xjawEZWntleHRuA2FlbQIxMQABHWTfZwIQ5Ld_9jto-6GAYEFky2g7JOcsWnsbkmhsz0E3Ps8Hv3KLQnjPEQ_aem_xmPNMxB_K9DwcgP2VSsuIA#introduction)
