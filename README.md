@@ -27,6 +27,7 @@
   - [Joi Ito](https://joi.ito.com/weblog)
   - [Nyanpasu64](https://nyanpasu64.gitlab.io/)
   - [SecNigma](https://secnigma.wordpress.com/)
+  - [Matt Greer](https://mattgreer.dev/blog) ([Article](https://mattgreer.dev/articles))
 - **Thai**
   - [Dave Rawitat Pulam](https://rawitat.com/)
   - [Chakrit Riddhagni (Chris' Dialogue)](https://chrisza.me)
@@ -44,7 +45,11 @@
 - **Thai**
   - [Saladpuk](https://saladpuk.com/)
 
-## Computer Science / Information Technology / Software Development 
+## Computer Science / Information Technology / Software Development
+
+### Computer Architecture / Low-Level
+
+- [[EN] Neo Geo Dev: Fixed Point Numbers (Matt Greer)](https://mattgreer.dev/blog/neo-geo-dev-fixed-point/?fbclid=IwY2xjawExPqNleHRuA2FlbQIxMQABHX-4raAf3mk3_sz8F23pVqaDm8kAt9TRwbDHGzWIsswZ1jhCSeXewowf-w_aem_SnzEDO9PSrqYNXzl1Pvkng)
 
 ### Code Style / Clean Code / Design Pattern
 
@@ -59,7 +64,7 @@
 ### Security 
 - [[EN] DDoS: The Complete Guide For Founders (2024) (Onboardbase)](https://onboardbase.com/blog/ddos/?fbclid=IwZXh0bgNhZW0CMTEAAR3GdU7CA2QpRsfrQiTemuMQCRa43-UfRuKJVmqv3OBtgmIN1sIDhAmZ1LM_aem_adxnE5OUSWRfYtuy2aavgg)
 
-### Hardware / Electronics 
+### Hardware / Electronics
 
 - [[EN] DESIGNING THE SUPER NINTENDO VIDEO SYSTEM](https://fabiensanglard.net/snes_video/index.html?fbclid=IwY2xjawEUxitleHRuA2FlbQIxMQABHRJSwfKR8g1ftJ6lz10Tf7zKMoLFxk3CcT7tL8eSQhu9TvilaewMK5zjFw_aem_AktPwBjMyHxVTE4Bhae_CQ)
 - [[EN] INSIDE THE SUPER NINTENDO CARTRIDGES](https://fabiensanglard.net/snes_carts/)
