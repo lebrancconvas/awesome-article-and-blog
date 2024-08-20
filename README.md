@@ -49,7 +49,7 @@
 
 ### Programming Language
 
-- JavaScript
+- **JavaScript**
   - [[EN] JavaScript Promises ... in Wicked Detail (Matt Greer)](https://mattgreer.dev/articles/promises-in-wicked-detail/)
 
 ### Computer Architecture / Low-Level
