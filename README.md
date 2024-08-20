@@ -40,6 +40,7 @@
 ### Note / Lecture
 - **English**
   - [Sichao's Note](https://notes.shichao.io/)
+  - [Explained from First Principles](https://explained-from-first-principles.com/)
 - **Thai**
   - [Saladpuk](https://saladpuk.com/)
 
