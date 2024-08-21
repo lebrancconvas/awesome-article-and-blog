@@ -16,6 +16,7 @@
 - **English**
   - [MIT Media Lab](https://blog.media.mit.edu)
   - [Signalsmith Audio](https://signalsmith-audio.co.uk/writing/)
+  - [IEEE Spectrum](https://spectrum.ieee.org/)
 - **Thai**
   - [ODDS (Medium - odds.team)](https://medium.com/odds-team?source=list-84e1e2001f4d--------0-------df0208188910---------------------)
   - [KBTG (Medium - KBTG Life)](https://medium.com/kbtg-life?source=list-84e1e2001f4d--------0-------e390b5311a9c---------------------)
@@ -28,6 +29,7 @@
   - [Nyanpasu64](https://nyanpasu64.gitlab.io/)
   - [SecNigma](https://secnigma.wordpress.com/)
   - [Matt Greer](https://mattgreer.dev/blog) ([Article](https://mattgreer.dev/articles))
+  - [Fabien Sanglard](https://fabiensanglard.net/)
 - **Thai**
   - [Dave Rawitat Pulam](https://rawitat.com/)
   - [Chakrit Riddhagni (Chris' Dialogue)](https://chrisza.me)
@@ -56,6 +58,10 @@
 
 - [[EN] Neo Geo Dev: Fixed Point Numbers (Matt Greer)](https://mattgreer.dev/blog/neo-geo-dev-fixed-point/?fbclid=IwY2xjawExPqNleHRuA2FlbQIxMQABHX-4raAf3mk3_sz8F23pVqaDm8kAt9TRwbDHGzWIsswZ1jhCSeXewowf-w_aem_SnzEDO9PSrqYNXzl1Pvkng)
 
+### Computer Graphics / Digital Image Processing / Computer Vision
+
+- [[EN] Nasir Ahmed: An Unsung Hero of Digital Media (IEEE Spectrum)](https://spectrum.ieee.org/compression-algorithms?fbclid=IwY2xjawEybatleHRuA2FlbQIxMQABHRubWkYIccHX8MqPoRZuRqi_uAj8XF8v6g0-ZnV-19b9tsSPjAxFlg5bbg_aem_PYKOLof3tU5teX_QRB4p-Q)
+
 ### Code Style / Clean Code / Design Pattern
 
 - [[EN] Good Refactoring vs Bad Refactoring (Builder)](https://www.builder.io/blog/good-vs-bad-refactoring?fbclid=IwZXh0bgNhZW0CMTEAAR12p3oHYB0WQpZLonrzc2wG9WOohWhj-jrGpI27xWFoHF0fQ1uJv5e14Oc_aem_TC5XVYZFrgl-VBB4nssTZQ)
@@ -73,12 +79,14 @@
 
 - [[EN] DESIGNING THE SUPER NINTENDO VIDEO SYSTEM](https://fabiensanglard.net/snes_video/index.html?fbclid=IwY2xjawEUxitleHRuA2FlbQIxMQABHRJSwfKR8g1ftJ6lz10Tf7zKMoLFxk3CcT7tL8eSQhu9TvilaewMK5zjFw_aem_AktPwBjMyHxVTE4Bhae_CQ)
 - [[EN] INSIDE THE SUPER NINTENDO CARTRIDGES](https://fabiensanglard.net/snes_carts/)
+- [[EN] HOW THE SNES GRAPHICS SYSTEM WORKS (Fabien Sanglard)](https://fabiensanglard.net/snes_ppus_how/?fbclid=IwY2xjawEybtFleHRuA2FlbQIxMQABHQeZgPR7e5Buwk2zJs0HMeAsG8Pw50sAOpuaRsg-ufYOQyw1uL2JFnJ4AQ_aem_Yt8vLGtJTlPDMaJdraaV9g)
 - [[EN] Casio VZ-1 algorithms
 ](https://blog.jacobvosmaer.nl/0029-vz-1-algorithms/?fbclid=IwY2xjawEh2PpleHRuA2FlbQIxMQABHWtNiDmhbfpqmDaFtdc5lzWewB6xTvW7xIHtHI9dOtfEEGHMk_oYkyEg_w_aem_C4daZ4X7JpGQMrorQw_3HQ)
 - [[EN] The mysterious Casio VZ-1](https://blog.jacobvosmaer.nl/0028-mysterious-vz-1)
 - [[EN] A guide to CRT photography (Nyanpasu64)](https://nyanpasu64.gitlab.io/blog/crt-photography)
 - [[EN] A Starter’s guide on recovering damaged and rotten CDs (SecNigma)](https://secnigma.wordpress.com/2022/05/08/a-guide-to-recovering-damaged-and-rotten-cds/?fbclid=IwY2xjawEwU5xleHRuA2FlbQIxMQABHcJinbeoCaZKBrVpjpxANipa7fV71dGl2E5gYgqInNbRckycie52Bqxtgg_aem_KiGTVN2e225sotTvXI3zlQ)
 - [[EN] The Sega Saturn and Transparency (Matt Greer)](https://mattgreer.dev/articles/sega-saturn-and-transparency/)
+- [[EN] Can Digital Emulations Ever Be As Good As Analog Hardware? (Okmog)](https://www.okmog.de/index.php/training/articles/can-digital-emulations-ever-be-as-good-as-analog-hardware?fbclid=IwZXh0bgNhZW0CMTEAAR0ySaNwvul3qU1yr9py70NuxKAzBVFpyQBmi4nnALuRo4SWVm79XQNlbqo_aem_GC4GN48ZV1vipBPKBT55-A)
   
 ## Art / Media
 
