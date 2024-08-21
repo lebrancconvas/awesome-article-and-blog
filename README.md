@@ -1,4 +1,4 @@
-# Awesome Article and Blog
+# Awesome Articles and Blogs
 
 ## Resource
 
@@ -77,12 +77,11 @@
 
 ### Hardware / Electronics
 
-- [[EN] DESIGNING THE SUPER NINTENDO VIDEO SYSTEM](https://fabiensanglard.net/snes_video/index.html?fbclid=IwY2xjawEUxitleHRuA2FlbQIxMQABHRJSwfKR8g1ftJ6lz10Tf7zKMoLFxk3CcT7tL8eSQhu9TvilaewMK5zjFw_aem_AktPwBjMyHxVTE4Bhae_CQ)
-- [[EN] INSIDE THE SUPER NINTENDO CARTRIDGES](https://fabiensanglard.net/snes_carts/)
+- [[EN] DESIGNING THE SUPER NINTENDO VIDEO SYSTEM (Fabien Langsard)](https://fabiensanglard.net/snes_video/index.html?fbclid=IwY2xjawEUxitleHRuA2FlbQIxMQABHRJSwfKR8g1ftJ6lz10Tf7zKMoLFxk3CcT7tL8eSQhu9TvilaewMK5zjFw_aem_AktPwBjMyHxVTE4Bhae_CQ)
+- [[EN] INSIDE THE SUPER NINTENDO CARTRIDGES (Fabien Langsard)](https://fabiensanglard.net/snes_carts/)
 - [[EN] HOW THE SNES GRAPHICS SYSTEM WORKS (Fabien Sanglard)](https://fabiensanglard.net/snes_ppus_how/?fbclid=IwY2xjawEybtFleHRuA2FlbQIxMQABHQeZgPR7e5Buwk2zJs0HMeAsG8Pw50sAOpuaRsg-ufYOQyw1uL2JFnJ4AQ_aem_Yt8vLGtJTlPDMaJdraaV9g)
-- [[EN] Casio VZ-1 algorithms
-](https://blog.jacobvosmaer.nl/0029-vz-1-algorithms/?fbclid=IwY2xjawEh2PpleHRuA2FlbQIxMQABHWtNiDmhbfpqmDaFtdc5lzWewB6xTvW7xIHtHI9dOtfEEGHMk_oYkyEg_w_aem_C4daZ4X7JpGQMrorQw_3HQ)
-- [[EN] The mysterious Casio VZ-1](https://blog.jacobvosmaer.nl/0028-mysterious-vz-1)
+- [[EN] Casio VZ-1 algorithms (Jacob Vosmaer)](https://blog.jacobvosmaer.nl/0029-vz-1-algorithms/?fbclid=IwY2xjawEh2PpleHRuA2FlbQIxMQABHWtNiDmhbfpqmDaFtdc5lzWewB6xTvW7xIHtHI9dOtfEEGHMk_oYkyEg_w_aem_C4daZ4X7JpGQMrorQw_3HQ)
+- [[EN] The mysterious Casio VZ-1 (Jacob Vosmaer)](https://blog.jacobvosmaer.nl/0028-mysterious-vz-1)
 - [[EN] A guide to CRT photography (Nyanpasu64)](https://nyanpasu64.gitlab.io/blog/crt-photography)
 - [[EN] A Starter’s guide on recovering damaged and rotten CDs (SecNigma)](https://secnigma.wordpress.com/2022/05/08/a-guide-to-recovering-damaged-and-rotten-cds/?fbclid=IwY2xjawEwU5xleHRuA2FlbQIxMQABHcJinbeoCaZKBrVpjpxANipa7fV71dGl2E5gYgqInNbRckycie52Bqxtgg_aem_KiGTVN2e225sotTvXI3zlQ)
 - [[EN] The Sega Saturn and Transparency (Matt Greer)](https://mattgreer.dev/articles/sega-saturn-and-transparency/)
@@ -91,5 +90,5 @@
 ## Art / Media
 
 ### Audio / Music / Sound
-- [[EN] Synthesizer Notes](https://blog.jacobvosmaer.nl/0027-synth-notes/#vz1)
+- [[EN] Synthesizer Notes (Jacob Vosmaer)](https://blog.jacobvosmaer.nl/0027-synth-notes/#vz1)
 - [[EN] Let's Write A Reverb (Signalsmith Audio)](https://signalsmith-audio.co.uk/writing/2021/lets-write-a-reverb/?fbclid=IwZXh0bgNhZW0CMTEAAR01vLozXDEOy9CfPwK90G9_2c9FgaHmaDQEulN6I0-W_dqAtWSSqPYsZ_0_aem_s6mclMZzWypLVwqGldDM_A)
