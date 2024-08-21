@@ -5,10 +5,10 @@
 ### Website / Blog Portal 
 - [Medium](https://medium.com/)
 - [Substack](https://substack.com/)
-- [Dev Community](https://dev.to/)
-- [freeCodeCamp](https://www.freecodecamp.org/news)
+- [Dev Community](https://dev.to/) ([Facebook Page](https://www.facebook.com/thepracticaldev))
+- [freeCodeCamp](https://www.freecodecamp.org/news) ([Facebook Page](https://www.facebook.com/freecodecamp))
 - [ByteByteGo](https://blog.bytebytego.com/)
-- [Hacker News](https://news.ycombinator.com/)
+- [Hacker News](https://news.ycombinator.com/) ([Facebook Page](https://www.facebook.com/hn.hiren.news))
 - [Game Developer (Ex: Gamasutra)](https://www.gamedeveloper.com/)
 - [[TH] Webring (วงแหวนเว็บ)](https://webring.wonderful.software/)
 
