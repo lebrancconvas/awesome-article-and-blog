@@ -48,6 +48,10 @@
 - **Thai**
   - [Saladpuk](https://saladpuk.com/)
 
+### Book
+- **English**
+  - [Ultimate Electronics](https://ultimateelectronicsbook.com/)
+
 ## Computer Science / Information Technology / Software Development
 
 ### Programming Language
