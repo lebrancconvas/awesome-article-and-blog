@@ -30,6 +30,7 @@
   - [SecNigma](https://secnigma.wordpress.com/)
   - [Matt Greer](https://mattgreer.dev/blog) ([Article](https://mattgreer.dev/articles))
   - [Fabien Sanglard](https://fabiensanglard.net/)
+  - [Raymii](https://raymii.org/s/tags/all.html)
 - **Thai**
   - [Dave Rawitat Pulam](https://rawitat.com/)
   - [Chakrit Riddhagni (Chris' Dialogue)](https://chrisza.me)
@@ -54,13 +55,17 @@
 - **JavaScript**
   - [[EN] JavaScript Promises ... in Wicked Detail (Matt Greer)](https://mattgreer.dev/articles/promises-in-wicked-detail/)
 
-### Computer Architecture / Low-Level
+### Computer Architecture
 
 - [[EN] Neo Geo Dev: Fixed Point Numbers (Matt Greer)](https://mattgreer.dev/blog/neo-geo-dev-fixed-point/?fbclid=IwY2xjawExPqNleHRuA2FlbQIxMQABHX-4raAf3mk3_sz8F23pVqaDm8kAt9TRwbDHGzWIsswZ1jhCSeXewowf-w_aem_SnzEDO9PSrqYNXzl1Pvkng)
 
 ### Computer Graphics / Digital Image Processing / Computer Vision
 
 - [[EN] Nasir Ahmed: An Unsung Hero of Digital Media (IEEE Spectrum)](https://spectrum.ieee.org/compression-algorithms?fbclid=IwY2xjawEybatleHRuA2FlbQIxMQABHRubWkYIccHX8MqPoRZuRqi_uAj8XF8v6g0-ZnV-19b9tsSPjAxFlg5bbg_aem_PYKOLof3tU5teX_QRB4p-Q)
+
+### Game Development
+
+- [[EN] Compiling TETRIS from 1992 on OpenVMS x86 in 2024! (Raymii)](https://raymii.org/s/blog/Tetris_from_1992_on_OpenVMS_x86_in_2024.html?fbclid=IwZXh0bgNhZW0CMTAAAR3HPcy-yXzbEPDuFoWzJX48zmKfbDiNsN8wZwgWNEsrmrbK9vv5fqQt4k0_aem_YEfIZzxpCiSOrKlM57aRHQ)
 
 ### Code Style / Clean Code / Design Pattern
 
