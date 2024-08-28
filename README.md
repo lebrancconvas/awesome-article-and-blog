@@ -32,6 +32,7 @@
   - [Matt Greer](https://mattgreer.dev/blog) ([Article](https://mattgreer.dev/articles))
   - [Fabien Sanglard](https://fabiensanglard.net/)
   - [Raymii](https://raymii.org/s/tags/all.html)
+  - [David Gerrells](https://dgerrells.com/blog)
 - **Thai**
   - [Dave Rawitat Pulam](https://rawitat.com/)
   - [Chakrit Riddhagni (Chris' Dialogue)](https://chrisza.me)
@@ -72,6 +73,9 @@
 ### Computer Graphics / Digital Image Processing / Computer Vision
 
 - [[EN] Nasir Ahmed: An Unsung Hero of Digital Media (IEEE Spectrum)](https://spectrum.ieee.org/compression-algorithms?fbclid=IwY2xjawEybatleHRuA2FlbQIxMQABHRubWkYIccHX8MqPoRZuRqi_uAj8XF8v6g0-ZnV-19b9tsSPjAxFlg5bbg_aem_PYKOLof3tU5teX_QRB4p-Q)
+
+### Web Development
+- [[EN] Can you convert a video to pure css? (David Gerrels)](https://dgerrells.com/blog/can-you-convert-a-video-to-pure-css?fbclid=IwY2xjawE8YzJleHRuA2FlbQIxMQABHVIBKKTBZUa22AeFB2l6MBaH7XLcWAbQlfg7rLPu-ilivi_lRWWPT_HJtQ_aem_mBj8G8ImYaxq1yDaKv_CGw)
 
 ### Game Development
 
