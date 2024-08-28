@@ -17,6 +17,7 @@
   - [MIT Media Lab](https://blog.media.mit.edu)
   - [Signalsmith Audio](https://signalsmith-audio.co.uk/writing/)
   - [IEEE Spectrum](https://spectrum.ieee.org/)
+  - [LINUXexpert](https://linuxexpert.org/)
 - **Thai**
   - [ODDS (Medium - odds.team)](https://medium.com/odds-team?source=list-84e1e2001f4d--------0-------df0208188910---------------------)
   - [KBTG (Medium - KBTG Life)](https://medium.com/kbtg-life?source=list-84e1e2001f4d--------0-------e390b5311a9c---------------------)
@@ -62,6 +63,11 @@
 ### Computer Architecture
 
 - [[EN] Neo Geo Dev: Fixed Point Numbers (Matt Greer)](https://mattgreer.dev/blog/neo-geo-dev-fixed-point/?fbclid=IwY2xjawExPqNleHRuA2FlbQIxMQABHX-4raAf3mk3_sz8F23pVqaDm8kAt9TRwbDHGzWIsswZ1jhCSeXewowf-w_aem_SnzEDO9PSrqYNXzl1Pvkng)
+
+### Operating System (OS)
+
+- **Unix-Based / Linux**
+  - [[EN] Obsolete Command-Line Tools of Linux (LINUXexpert)](https://linuxexpert.org/obsolete-command-line-tools-of-linux)
 
 ### Computer Graphics / Digital Image Processing / Computer Vision
 
