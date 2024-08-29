@@ -107,6 +107,7 @@
 - [[EN] The Sega Saturn and Transparency (Matt Greer)](https://mattgreer.dev/articles/sega-saturn-and-transparency/)
 - [[EN] Can Digital Emulations Ever Be As Good As Analog Hardware? (Okmog)](https://www.okmog.de/index.php/training/articles/can-digital-emulations-ever-be-as-good-as-analog-hardware?fbclid=IwZXh0bgNhZW0CMTEAAR0ySaNwvul3qU1yr9py70NuxKAzBVFpyQBmi4nnALuRo4SWVm79XQNlbqo_aem_GC4GN48ZV1vipBPKBT55-A)
 - [[EN] Japan's Real First Console? Bandai's TV Jack 5000 (Nicole Express)](https://nicole.express/2024/tv-jack-and-tv-jill.html?fbclid=IwY2xjawE9j0ZleHRuA2FlbQIxMQABHSG_EiBOBNRFJy-EnII8HVSFRyfEsTbvkvosXdox_2zogTOgCifD8LGYqQ_aem_-enReiY7n3M130WQ2yi4ZA)
+- [[EN] RGB Modding the SG-1000 II! Is it worth it? (Nicole Express)](https://nicole.express/2023/sg-1000-is-a-stupid-name-why-is-there-no-sg-500.html)
   
 ## Art / Media
 
