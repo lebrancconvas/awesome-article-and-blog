@@ -33,6 +33,7 @@
   - [Fabien Sanglard](https://fabiensanglard.net/)
   - [Raymii](https://raymii.org/s/tags/all.html)
   - [David Gerrells](https://dgerrells.com/blog)
+  - [Nicole Branagan (Nicole Express)](https://nicole.express/listing.html)
 - **Thai**
   - [Dave Rawitat Pulam](https://rawitat.com/)
   - [Chakrit Riddhagni (Chris' Dialogue)](https://chrisza.me)
