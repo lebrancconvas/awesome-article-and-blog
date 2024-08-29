@@ -105,6 +105,7 @@
 - [[EN] A Starter’s guide on recovering damaged and rotten CDs (SecNigma)](https://secnigma.wordpress.com/2022/05/08/a-guide-to-recovering-damaged-and-rotten-cds/?fbclid=IwY2xjawEwU5xleHRuA2FlbQIxMQABHcJinbeoCaZKBrVpjpxANipa7fV71dGl2E5gYgqInNbRckycie52Bqxtgg_aem_KiGTVN2e225sotTvXI3zlQ)
 - [[EN] The Sega Saturn and Transparency (Matt Greer)](https://mattgreer.dev/articles/sega-saturn-and-transparency/)
 - [[EN] Can Digital Emulations Ever Be As Good As Analog Hardware? (Okmog)](https://www.okmog.de/index.php/training/articles/can-digital-emulations-ever-be-as-good-as-analog-hardware?fbclid=IwZXh0bgNhZW0CMTEAAR0ySaNwvul3qU1yr9py70NuxKAzBVFpyQBmi4nnALuRo4SWVm79XQNlbqo_aem_GC4GN48ZV1vipBPKBT55-A)
+- [[EN] Japan's Real First Console? Bandai's TV Jack 5000 (Nicole Express)](https://nicole.express/2024/tv-jack-and-tv-jill.html?fbclid=IwY2xjawE9j0ZleHRuA2FlbQIxMQABHSG_EiBOBNRFJy-EnII8HVSFRyfEsTbvkvosXdox_2zogTOgCifD8LGYqQ_aem_-enReiY7n3M130WQ2yi4ZA)
   
 ## Art / Media
 
