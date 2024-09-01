@@ -35,6 +35,7 @@
   - [David Gerrells](https://dgerrells.com/blog)
   - [Nicole Branagan (Nicole Express)](https://nicole.express/listing.html)
   - [Martin Wojtczyk](https://martin.wojtczyk.de/blog/)
+  - [Maister's Graphics Adventures](https://themaister.net/blog/)
 - **Thai**
   - [Dave Rawitat Pulam](https://rawitat.com/)
   - [Chakrit Riddhagni (Chris' Dialogue)](https://chrisza.me)
@@ -76,6 +77,7 @@
 
 - [[EN] Nasir Ahmed: An Unsung Hero of Digital Media (IEEE Spectrum)](https://spectrum.ieee.org/compression-algorithms?fbclid=IwY2xjawEybatleHRuA2FlbQIxMQABHRubWkYIccHX8MqPoRZuRqi_uAj8XF8v6g0-ZnV-19b9tsSPjAxFlg5bbg_aem_PYKOLof3tU5teX_QRB4p-Q)
 - [[EN] Is my vision that bad? No, it’s just a bug in Apple’s Calculator. (Martin Wojtczyk)](https://martin.wojtczyk.de/2024/08/31/is-my-vision-that-bad-no-its-just-a-bug-in-apples-calculator/?fbclid=IwY2xjawE_jYpleHRuA2FlbQIxMQABHW_EGookO-0wotpEXZCx4cAJToRnN1Q4Xh-qUlv2YQjYDdHuzd8C1ru1Mw_aem_CvhTs7mu5RW5sFL_PGGosw)
+- [[EN] PlayStation 2 GS emulation – the final frontier of Vulkan compute emulation (Maister's Graphics Adventures)](https://themaister.net/blog/2024/07/03/playstation-2-gs-emulation-the-final-frontier-of-vulkan-compute-emulation/?fbclid=IwY2xjawFA5cNleHRuA2FlbQIxMQABHR1yjS0TS_SVzpdg7wSmOXbhjt8iK1uCphS0gsPH8EMskbq2nmoGnR4BVQ_aem_8O7G0-i-2QGN2uWYPvxaJQ)
 
 ### Web Development
 - [[EN] Can you convert a video to pure css? (David Gerrells)](https://dgerrells.com/blog/can-you-convert-a-video-to-pure-css?fbclid=IwY2xjawE8YzJleHRuA2FlbQIxMQABHVIBKKTBZUa22AeFB2l6MBaH7XLcWAbQlfg7rLPu-ilivi_lRWWPT_HJtQ_aem_mBj8G8ImYaxq1yDaKv_CGw)
