@@ -36,6 +36,7 @@
   - [Nicole Branagan (Nicole Express)](https://nicole.express/listing.html)
   - [Martin Wojtczyk](https://martin.wojtczyk.de/blog/)
   - [Maister's Graphics Adventures](https://themaister.net/blog/)
+  - [Alex Harri](https://alexharri.com/blog)
 - **Thai**
   - [Dave Rawitat Pulam](https://rawitat.com/)
   - [Chakrit Riddhagni (Chris' Dialogue)](https://chrisza.me)
@@ -81,6 +82,7 @@
 
 ### Web Development
 - [[EN] Can you convert a video to pure css? (David Gerrells)](https://dgerrells.com/blog/can-you-convert-a-video-to-pure-css?fbclid=IwY2xjawE8YzJleHRuA2FlbQIxMQABHVIBKKTBZUa22AeFB2l6MBaH7XLcWAbQlfg7rLPu-ilivi_lRWWPT_HJtQ_aem_mBj8G8ImYaxq1yDaKv_CGw)
+- [[EN] The web's clipboard, and how it stores data of different types (Alex Harri)](https://alexharri.com/blog/clipboard?fbclid=IwZXh0bgNhZW0CMTEAAR1tF-KqwXZ378FYwF1inouKAoRpkmilLiNPFSZxTPrhX9kn7eQfGhBYaQA_aem_GVAIyGaO5lt_72iQVfYnJg)
 
 ### Game Development
 
