@@ -38,6 +38,7 @@
   - [Martin Wojtczyk](https://martin.wojtczyk.de/blog/)
   - [Maister's Graphics Adventures](https://themaister.net/blog/)
   - [Alex Harri](https://alexharri.com/blog)
+  - [Manuel Spagnolo](https://shikaan.github.io/)
 - **Thai**
   - [Dave Rawitat Pulam](https://rawitat.com/)
   - [Chakrit Riddhagni (Chris' Dialogue)](https://chrisza.me)
@@ -63,6 +64,9 @@
 
 ### Programming Language
 
+- **Assembly**
+  - [[EN] A friendly introduction to assembly for high-level programmers — Hello](https://shikaan.github.io/assembly/x86/guide/2024/09/08/x86-64-introduction-hello.html)
+  - [[EN] A friendly introduction to assembly for high-level programmers — Conditionals](https://shikaan.github.io/assembly/x86/guide/2024/09/16/x86-64-conditionals.html)
 - **JavaScript**
   - [[EN] JavaScript Promises ... in Wicked Detail (Matt Greer)](https://mattgreer.dev/articles/promises-in-wicked-detail/)
 
